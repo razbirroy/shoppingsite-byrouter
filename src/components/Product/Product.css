@@ -1,0 +1,33 @@
+.section1{
+    display:flex;
+}
+.section1{
+    border-bottom: 1px solid lightgray;
+    margin-top:10px;
+   
+}
+.part1{
+  margin-right: 45px;
+}
+
+.light1{
+   padding: 10px;
+ 
+}
+
+.forH3{
+    color: blue;
+   
+}
+
+.light1 h4{
+    font-weight: 600;
+}
+
+.main-button{
+    width: 75%;
+    height: 30px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    border: 1px solid gold;
+}
